@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "449505051470",
+    "project_id": "summer-trainings-7479b",
+    "storage_bucket": "summer-trainings-7479b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:449505051470:android:df61d1c368841dcb79d41f",
+        "android_client_info": {
+          "package_name": "com.example.summertrainings"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "449505051470-af6kkp3v3cqbnrt2gov06141694hgjd4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdQ8EHCGIp5uJDuHyK-F9aLL3XmBo4CAk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "449505051470-af6kkp3v3cqbnrt2gov06141694hgjd4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
